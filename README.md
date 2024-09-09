@@ -1,1 +1,2 @@
-House Prrice Prediction with MlOps
+House Price Prediction with MlOps
+
